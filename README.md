@@ -5,10 +5,18 @@
 
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Certifications:</h2>
 
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [CompTIA Security+](https://www.credly.com/badges/8380b350-dbfe-4f6e-b8f8-a05337ce424a/linked_in_profile)
+
+- [Microsoft Certified: Identity and Access Administrator Associate](https://learn.microsoft.com/api/credentials/share/nb-no/UfukAri/F8C489A7F34704E0?sharingId=70DC372739FD69D)
+- [Microsoft Certified: Security Operations Analyst Associate](https://learn.microsoft.com/api/credentials/share/nb-no/UfukAri/6A1C7097B012F96A?sharingId=70DC372739FD69D)
+- [Microsoft Certified: Azure Security Engineer Associate](https://learn.microsoft.com/api/credentials/share/nb-no/UfukAri/1187BEF574A87F2E?sharingId=70DC372739FD69D)
+
+- [Splunk Certified: Splunk Core Certfied Power User](https://www.credly.com/badges/86be0eb8-a45a-47a9-ad1c-141de3180535/linked_in_profile)
+- [Splunk Certified: Splunk Core Certfied User](https://www.credly.com/badges/452f3389-d96e-491a-ba8a-23f8e1188c39/linked_in_profile)
+- [Splunk Certified: Splunk Enterprise Certified Admin](https://www.credly.com/badges/f11626f0-aeaa-4905-a18a-d491afbe4f61/linked_in_profile)
+
   
 <h2> 🤳 Connect with me:</h2>
 
