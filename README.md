@@ -9,9 +9,9 @@
 
 - [CompTIA Security+](https://www.credly.com/badges/8380b350-dbfe-4f6e-b8f8-a05337ce424a/linked_in_profile)
 <br> <br/>
-- [Microsoft Certified: Identity and Access Administrator Associate](https://learn.microsoft.com/api/credentials/share/nb-no/UfukAri/F8C489A7F34704E0?sharingId=70DC372739FD69D)
-- [Microsoft Certified: Security Operations Analyst Associate](https://learn.microsoft.com/api/credentials/share/nb-no/UfukAri/1187BEF574A87F2E?sharingId=70DC372739FD69D)
-- [Microsoft Certified: Azure Security Engineer Associate](https://learn.microsoft.com/api/credentials/share/nb-no/UfukAri/6A1C7097B012F96A?sharingId=70DC372739FD69D)
+- [Microsoft Certified: Identity and Access Administrator Associate](https://learn.microsoft.com/api/credentials/share/nb-no/44073711/F8C489A7F34704E0?sharingId=70DC372739FD69D)
+- [Microsoft Certified: Security Operations Analyst Associate](https://learn.microsoft.com/api/credentials/share/nb-no/44073711/1187BEF574A87F2E?sharingId=70DC372739FD69D)
+- [Microsoft Certified: Azure Security Engineer Associate](https://learn.microsoft.com/api/credentials/share/nb-no/44073711/6A1C7097B012F96A?sharingId=70DC372739FD69D)
 <br><br/>
 - [Splunk Certified: Splunk Core Certfied Power User](https://www.credly.com/badges/86be0eb8-a45a-47a9-ad1c-141de3180535/linked_in_profile)
 - [Splunk Certified: Splunk Core Certfied User](https://www.credly.com/badges/452f3389-d96e-491a-ba8a-23f8e1188c39/linked_in_profile)
