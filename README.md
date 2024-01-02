@@ -5,7 +5,7 @@
 
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
-<h2>✈📜📑📄📚 Certifications:</h2>
+<h2>📜 Certifications:</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/8380b350-dbfe-4f6e-b8f8-a05337ce424a/linked_in_profile)
 <br> <br/>
