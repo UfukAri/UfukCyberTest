@@ -20,9 +20,11 @@
   
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="UfukAri | Facebook" width="22px" src="https://www.facebook.com/images/fb_icon_325x325.png"  />][facebook]
+[<img align="left" alt="UfukAri | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" />][linkedin]
 
 [Facebook]: https://www.facebook.com/ufuk.ari.10?locale=nb_NO
 [linkedin]: https://www.linkedin.com/in/ufuk-ari/
+
+
 
